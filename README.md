@@ -265,7 +265,8 @@ _• I’m naturally funny and like to lighten up the mood.
 
 <div align="center">
 
-![GitHub Stats](https://stats.pphat.top/stats?username=blackrexdl&avatar_mode=radar)
+![GitHub User](https://stats.pphat.top/stats?username=blackrexdl&avatar_mode=radar)
+![GitHub Techstacks](https://stats.pphat.top/languages?username=blackrexdl)
 
 </div>
 
