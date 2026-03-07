@@ -269,50 +269,6 @@ _• I’m naturally funny and like to lighten up the mood.
 
 </div>
 
-## 🚀 Featured Repositories
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<a href="https://github.com/blackrexdl/next-restaurant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=next-restaurant&theme=tokyonight&hide_border=true" />
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://github.com/blackrexdl/Personal-Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=tokyonight&hide_border=true" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<a href="https://github.com/blackrexdl/flashcard_app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=flashcard_app&theme=tokyonight&hide_border=true" />
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://github.com/blackrexdl/Placement-Comapny.github.io">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=Placement-Comapny.github.io&theme=tokyonight&hide_border=true" />
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ## 📊 Developer Dashboard
 
 <table>
