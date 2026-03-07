@@ -269,6 +269,64 @@ _• I’m naturally funny and like to lighten up the mood.
 
 </div>
 
+## 🔥 Trending Showcase
+
+<div align="center">
+
+<a href="https://github.com/trending">
+<img src="https://img.shields.io/badge/GitHub%20Trending-Explore%20Popular%20Repositories-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+<table>
+<tr>
+
+<td align="center">
+
+<a href="https://github.com/vercel/next.js">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vercel&repo=next.js&theme=tokyonight&hide_border=true"/>
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/microsoft/vscode">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=vscode&theme=tokyonight&hide_border=true"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<a href="https://github.com/facebook/react">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react&theme=tokyonight&hide_border=true"/>
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/torvalds/linux">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linux&theme=tokyonight&hide_border=true"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+Popular open‑source repositories often appearing on GitHub Trending.
+</p>
+
+---
+
 ## 📊 Developer Dashboard
 
 <table>
