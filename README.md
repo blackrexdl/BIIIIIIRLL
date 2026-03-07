@@ -269,9 +269,13 @@ _• I’m naturally funny and like to lighten up the mood.
 
 </div>
 
-## 📊 GitHub Stats & Activity
+## 📊 Developer Dashboard
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 👀 Profile Activity
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=blackrexdl&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
@@ -279,32 +283,31 @@ _• I’m naturally funny and like to lighten up the mood.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/caption_driller?style=social)](https://twitter.com/caption_driller)
 
-</div>
+</td>
 
----
+<td width="50%" align="center">
 
-
-
-<div align="center">
+### 📈 GitHub Advanced Stats
 
 ![GitHub User](https://stats.pphat.top/stats?username=blackrexdl&avatar_mode=radar)
+
 ![GitHub Techstacks](https://stats.pphat.top/languages?username=blackrexdl)
 
-</div>
+</td>
+</tr>
 
-<div align="center">
+<tr>
+<td width="50%" align="center">
+
+### 📊 Contribution Graph
 
 ![GitHub Stats](http://stats.pphat.top/graph?username=blackrexdl&theme=aurora&size=default&show_title=true&show_total_contribution=true&show_background=true&animate=glow)
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-**Thank you for visiting my profile! 😊**
-**This Ghost Doing Hard !! Star my repo and enjoy 😊**
+</td>
 
+<td width="50%" align="center">
 
-
-
-
-
+### 🧑‍💻 Developer Metrics
 
 ![GitHub visitor](https://stats.pphat.top/badge/visitors?username=blackrexdl)
 ![GitHub starts](https://stats.pphat.top/badge/total-stars?username=blackrexdl&theme=ocean)
@@ -313,5 +316,19 @@ _• I’m naturally funny and like to lighten up the mood.
 ![GitHub commints](https://stats.pphat.top/badge/total-commits?username=blackrexdl&hideFrame=true&hideIcon=true)
 ![GitHub Joined](http://stats.pphat.top/badge/total-joined-years?username=blackrexdl&theme=default)
 
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🎯 Developer Quote
+
+"Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**Thank you for visiting my profile! 😊**  
+**This Ghost Doing Hard !! Star my repo and enjoy 😊**
 
 </div>
