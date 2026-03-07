@@ -271,6 +271,7 @@ _• I’m naturally funny and like to lighten up the mood.
 
 <div align="center">
 
+![GitHub Stats](https://stats.pphat.top/graph?username=blackrexdl&year=2025)
 ### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 **Thank you for visiting my profile! 😊**
