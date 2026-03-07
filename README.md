@@ -282,7 +282,10 @@ _• I’m naturally funny and like to lighten up the mood.
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=blackrexdl1" />
 </p>
 
----
+---## 📂 All Repositories
+
+- 🔹[github] (https://github.com/blackrexdl/flashcard_app)
+
 
 ## 📊 Developer Dashboard
 
