@@ -265,10 +265,9 @@ _• I’m naturally funny and like to lighten up the mood.
 
 <div align="center">
 
+![GitHub Stats](https://stats.pphat.top/stats?username=blackrexdl&avatar_mode=radar)
 
-
-[![Star History](https://api.star-history.com/svg?repos=next-restaurant&theme=dark)](https://github.com/blackrexdl/next-restaurant)
-
+</div>
 
 <div align="center">
 
