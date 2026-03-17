@@ -25,6 +25,14 @@
 </div>
 
 
+![Next Restaurant Heatmap](https://github-contribution-heatmap.vercel.app/api/heatmap?repo=blackrexdl/next-restaurant&variant=map&theme=dark)
+![Personal Portfolio Heatmap](https://github-contribution-heatmap.vercel.app/api/heatmap?repo=blackrexdl/Personal-Portfolio&variant=map&theme=dark)
+![BlackRexDL Heatmap](https://github-contribution-heatmap.vercel.app/api/heatmap?repo=blackrexdl/blackrexdl&variant=map&theme=dark)
+![BIIIIIIRLL Heatmap](https://github-contribution-heatmap.vercel.app/api/heatmap?repo=blackrexdl/BIIIIIIRLL&variant=map&theme=dark)
+![Flashcard App Heatmap](https://github-contribution-heatmap.vercel.app/api/heatmap?repo=blackrexdl/flashcard_app&variant=map&theme=dark)
+![Placement Porj Heatmap](https://github-contribution-heatmap.vercel.app/api/heatmap?repo=blackrexdl/Placement-Porj&variant=map&theme=dark)
+![Healthcare Heatmap](https://github-contribution-heatmap.vercel.app/api/heatmap?repo=blackrexdl/Healthcare&variant=map&theme=dark)
+
 ## 🚀 Profile Overview
 
 <table>
@@ -184,16 +192,7 @@ Overall, this internship strengthened my technical skills, understanding of back
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackrexdl&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
     </a>
     <div align="center">
- <!-- LeetCode Stats -->
-    <a href="https://leetcode.com/shubhamsharma_7#gh-dark-mode-only">
-        <img src="https://leetcard.jacoblin.cool/shubhamsharma_7?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
-    </a>
-    <a href="https://leetcode.com/shubhamsharma_7#gh-light-mode-only">
-        <img src="https://leetcard.jacoblin.cool/shubhamsharma_7?border=1&radius=20&theme=light#gh-light-mode-only" alt="Leetcode Stats">
-    </a>
 </div>
-<br>
-
 ## ⚡ Fun Fact
 
 <div align="center">
@@ -207,6 +206,13 @@ _• I’m naturally funny and like to lighten up the mood.
 • I’m a bit of a multilingual techie – English, Hindi, Punjabi._
 
 </div>
+ <!-- LeetCode Stats -->
+    <a href="https://leetcode.com/cheehwatang#gh-dark-mode-only">
+        <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
+    </a>
+    <a href="https://leetcode.com/cheehwatang#gh-light-mode-only">
+        <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=light#gh-light-mode-only" alt="Leetcode Stats">
+    </a>
 
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
