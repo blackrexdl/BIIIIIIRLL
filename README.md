@@ -437,12 +437,19 @@ _• I’m naturally funny and like to lighten up the mood.
     <a href="https://github.com/blackrexdl/Personal-Portfolio#gh-light-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=vue#gh-light-mode-only" alt="Personal Portfolio Repo">
     </a>
-    <!-- BlackRexDL Repo -->
+    <!-- BlackRexDL Internal Repo -->
     <a href="https://github.com/blackrexdl/blackrexdl#gh-dark-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=blackrexdl&theme=github_dark#gh-dark-mode-only" alt="BlackRexDL Repo">
     </a>
     <a href="https://github.com/blackrexdl/blackrexdl#gh-light-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=blackrexdl&theme=vue#gh-light-mode-only" alt="BlackRexDL Repo">
+    </a>
+    <!-- BIIIIIIRLL Repo (Brillllll Repo) -->
+    <a href="https://github.com/blackrexdl/BIIIIIIRLL#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=BIIIIIIRLL&theme=github_dark#gh-dark-mode-only" alt="BIIIIIIRLL Repo">
+    </a>
+    <a href="https://github.com/blackrexdl/BIIIIIIRLL#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=BIIIIIIRLL&theme=vue#gh-light-mode-only" alt="BIIIIIIRLL Repo">
     </a>
 </div>
 
