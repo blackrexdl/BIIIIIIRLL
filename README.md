@@ -202,13 +202,14 @@ _• I’m naturally funny and like to lighten up the mood.
 
 </div>
  <!-- LeetCode Stats -->
+ <div align="center">
    <a href="https://leetcode.com/shubhamsharma_7#gh-dark-mode-only">
         <img src="https://leetcard.jacoblin.cool/shubhamsharma_7?border=1&radius=20&theme=dark#gh-dark-mode-only" alt="Leetcode Stats">
     </a>
     <a href="https://leetcode.com/shubhamsharma_7#gh-light-mode-only">
         <img src="https://leetcard.jacoblin.cool/shubhamsharma_7?border=1&radius=20&theme=light#gh-light-mode-only" alt="Leetcode Stats">
     </a>
-
+</div>
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
 <br><br>
@@ -524,7 +525,7 @@ _• I’m naturally funny and like to lighten up the mood.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackrexdl)&nbsp;&nbsp;&nbsp;[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/caption_driller)&nbsp;&nbsp;&nbsp;[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/wassupshubu)&nbsp;&nbsp;&nbsp;[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/Shubu78)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/shubux78)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wssup.shubu)&nbsp;&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/https://studio.youtube.com/channel/UCtd4kK7LQINL0QjwP2M7agw)&nbsp;&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shubhamsharma_7)&nbsp;&nbsp;&nbsp;[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://snapchat.com/add/dontsnapme_biba)&nbsp;&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/7889000521)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackrexdl)&nbsp;&nbsp;&nbsp;[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/caption_driller)&nbsp;&nbsp;&nbsp;[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/wassupshubu)&nbsp;&nbsp;&nbsp;[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/Shubu78)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/shubux78)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wssup.shubu)&nbsp;&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCtd4kK7LQINL0QjwP2M7agw)&nbsp;&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shubhamsharma_7)&nbsp;&nbsp;&nbsp;[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://snapchat.com/add/dontsnapme_biba)&nbsp;&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/7889000521)
 
 </div>
 
@@ -532,8 +533,7 @@ _• I’m naturally funny and like to lighten up the mood.
 
 <div align="center">
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/wssup.shubu)
-
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/wssup.shubu)
 </div>
 
 ## 🛠️ Skills & Technologies
