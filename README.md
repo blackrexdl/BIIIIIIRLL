@@ -427,40 +427,54 @@ _• I’m naturally funny and like to lighten up the mood.
 <table>
   <!-- Row 1 -->
   <tr>
-    <td align="center" width="360" style="border:1px solid #ccc; padding:15px; border-radius:10px;">
-      <a href="https://github.com/blackrexdl/next-restaurant"><strong>Next Restaurant</strong></a>
+    <td align="center" width="360" style="border:1px solid #ccc; padding:10px; border-radius:12px;">
+      <a href="https://github.com/blackrexdl/next-restaurant">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=next-restaurant&theme=github_dark" width="340" alt="Next Restaurant Repo">
+      </a>
     </td>
-    <td align="center" width="360" style="border:1px solid #ccc; padding:15px; border-radius:10px;">
-      <a href="https://github.com/blackrexdl/Personal-Portfolio"><strong>Personal Portfolio</strong></a>
+    <td align="center" width="360" style="border:1px solid #ccc; padding:10px; border-radius:12px;">
+      <a href="https://github.com/blackrexdl/Personal-Portfolio">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=github_dark" width="340" alt="Personal Portfolio Repo">
+      </a>
     </td>
   </tr>
 
   <!-- Row 2 -->
   <tr>
-    <td align="center" width="360" style="border:1px solid #ccc; padding:15px; border-radius:10px;">
-      <a href="https://github.com/blackrexdl/blackrexdl"><strong>BlackRexDL</strong></a>
+    <td align="center" width="360" style="border:1px solid #ccc; padding:10px; border-radius:12px;">
+      <a href="https://github.com/blackrexdl/blackrexdl">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=blackrexdl&theme=github_dark" width="340" alt="BlackRexDL Repo">
+      </a>
     </td>
-    <td align="center" width="360" style="border:1px solid #ccc; padding:15px; border-radius:10px;">
-      <a href="https://github.com/blackrexdl/BIIIIIIRLL"><strong>BIIIIIIRLL</strong></a>
+    <td align="center" width="360" style="border:1px solid #ccc; padding:10px; border-radius:12px;">
+      <a href="https://github.com/blackrexdl/BIIIIIIRLL">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=BIIIIIIRLL&theme=github_dark" width="340" alt="BIIIIIIRLL Repo">
+      </a>
     </td>
   </tr>
 
   <!-- Row 3 -->
   <tr>
-    <td align="center" width="360" style="border:1px solid #ccc; padding:15px; border-radius:10px;">
-      <a href="https://github.com/blackrexdl/flashcard_app"><strong>Flashcard App</strong></a>
+    <td align="center" width="360" style="border:1px solid #ccc; padding:10px; border-radius:12px;">
+      <a href="https://github.com/blackrexdl/flashcard_app">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=flashcard_app&theme=github_dark" width="340" alt="Flashcard App Repo">
+      </a>
     </td>
-    <td align="center" width="360" style="border:1px solid #ccc; padding:15px; border-radius:10px;">
-      <a href="https://github.com/blackrexdl/Placement-Porj"><strong>Placement Porj</strong></a>
+    <td align="center" width="360" style="border:1px solid #ccc; padding:10px; border-radius:12px;">
+      <a href="https://github.com/blackrexdl/Placement-Porj">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Placement-Porj&theme=github_dark" width="340" alt="Placement Porj Repo">
+      </a>
     </td>
   </tr>
 
   <!-- Row 4 -->
   <tr>
-    <td align="center" width="360" style="border:1px solid #ccc; padding:15px; border-radius:10px;">
-      <a href="https://github.com/blackrexdl/Healthcare"><strong>Healthcare</strong></a>
+    <td align="center" width="360" style="border:1px solid #ccc; padding:10px; border-radius:12px;">
+      <a href="https://github.com/blackrexdl/Healthcare">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Healthcare&theme=github_dark" width="340" alt="Healthcare Repo">
+      </a>
     </td>
-    <td align="center" width="360" style="border:1px solid #ccc; padding:15px; border-radius:10px;">
+    <td align="center" width="360" style="border:1px solid #ccc; padding:10px; border-radius:12px;">
       <!-- Empty / placeholder -->
       <strong>Add Repo</strong>
     </td>
