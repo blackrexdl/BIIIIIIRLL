@@ -175,15 +175,21 @@ Overall, this internship strengthened my technical skills, understanding of back
 - 📫 How to reach me **shivam205@gmail.com**
 - 👨‍💻 All of my projects are available at [https://github.com/blackrexdl](https://github.com/blackrexdl)
 - 📄 Know about my experiences [https://github.com/blackrexdl/SHUBU-DOCS/blob/main/Cer%5Ctificate/ATS.pdf](https://github.com/blackrexdl/SHUBU-DOCS/blob/main/Cer%5Ctificate/ATS.pdf)
-
 </div>
+<!-- github contrubution graph  -->
  <a href="#gh-dark-mode-only">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackrexdl&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
     </a>
     <a href="#gh-light-mode-only">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackrexdl&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
     </a>
-
+ <!-- LeetCode Stats -->
+    <a href="https://leetcode.com/cheehwatang#gh-dark-mode-only">
+        <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
+    </a>
+    <a href="https://leetcode.com/cheehwatang#gh-light-mode-only">
+        <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=light#gh-light-mode-only" alt="Leetcode Stats">
+    </a>
 ## ⚡ Fun Fact
 
 <div align="center">
