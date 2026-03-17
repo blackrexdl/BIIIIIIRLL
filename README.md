@@ -425,8 +425,8 @@ _• I’m naturally funny and like to lighten up the mood.
 <div align="center">
 
 <table>
+  <!-- First 2x2 row (existing 4 repos) -->
   <tr>
-    <!-- Next Restaurant -->
     <td align="center" width="360" style="padding:10px;">
       <a href="https://github.com/blackrexdl/next-restaurant#gh-dark-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=next-restaurant&theme=github_dark#gh-dark-mode-only" width="340" alt="Next Restaurant Repo">
@@ -435,7 +435,7 @@ _• I’m naturally funny and like to lighten up the mood.
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=next-restaurant&theme=vue#gh-light-mode-only" width="340" alt="Next Restaurant Repo">
       </a>
     </td>
-    <!-- Personal Portfolio -->
+
     <td align="center" width="360" style="padding:10px;">
       <a href="https://github.com/blackrexdl/Personal-Portfolio#gh-dark-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=github_dark#gh-dark-mode-only" width="340" alt="Personal Portfolio Repo">
@@ -445,8 +445,8 @@ _• I’m naturally funny and like to lighten up the mood.
       </a>
     </td>
   </tr>
+
   <tr>
-    <!-- BlackRexDL -->
     <td align="center" width="360" style="padding:10px;">
       <a href="https://github.com/blackrexdl/blackrexdl#gh-dark-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=blackrexdl&theme=github_dark#gh-dark-mode-only" width="340" alt="BlackRexDL Repo">
@@ -455,7 +455,7 @@ _• I’m naturally funny and like to lighten up the mood.
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=blackrexdl&theme=vue#gh-light-mode-only" width="340" alt="BlackRexDL Repo">
       </a>
     </td>
-    <!-- BIIIIIIRLL -->
+
     <td align="center" width="360" style="padding:10px;">
       <a href="https://github.com/blackrexdl/BIIIIIIRLL#gh-dark-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=BIIIIIIRLL&theme=github_dark#gh-dark-mode-only" width="340" alt="BIIIIIIRLL Repo">
@@ -463,6 +463,43 @@ _• I’m naturally funny and like to lighten up the mood.
       <a href="https://github.com/blackrexdl/BIIIIIIRLL#gh-light-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=BIIIIIIRLL&theme=vue#gh-light-mode-only" width="340" alt="BIIIIIIRLL Repo">
       </a>
+    </td>
+  </tr>
+
+  <!-- Second 2x2 row (new repos) -->
+  <tr>
+    <td align="center" width="360" style="padding:10px;">
+      <a href="https://github.com/blackrexdl/flashcard_app.git#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=flashcard_app&theme=github_dark#gh-dark-mode-only" width="340" alt="Flashcard App Repo">
+      </a>
+      <a href="https://github.com/blackrexdl/flashcard_app.git#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=flashcard_app&theme=vue#gh-light-mode-only" width="340" alt="Flashcard App Repo">
+      </a>
+    </td>
+
+    <td align="center" width="360" style="padding:10px;">
+      <a href="https://github.com/blackrexdl/Placement-Porj.git#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Placement-Porj&theme=github_dark#gh-dark-mode-only" width="340" alt="Placement Porj Repo">
+      </a>
+      <a href="https://github.com/blackrexdl/Placement-Porj.git#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Placement-Porj&theme=vue#gh-light-mode-only" width="340" alt="Placement Porj Repo">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="360" style="padding:10px;">
+      <a href="https://github.com/blackrexdl/Healthcare.git#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Healthcare&theme=github_dark#gh-dark-mode-only" width="340" alt="Healthcare Repo">
+      </a>
+      <a href="https://github.com/blackrexdl/Healthcare.git#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Healthcare&theme=vue#gh-light-mode-only" width="340" alt="Healthcare Repo">
+      </a>
+    </td>
+
+    <!-- Empty slot for 4th repo -->
+    <td align="center" width="360" style="padding:10px;">
+      <!-- You can add another repo here later -->
     </td>
   </tr>
 </table>
