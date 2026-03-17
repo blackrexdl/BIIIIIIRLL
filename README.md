@@ -202,11 +202,11 @@ _• I’m naturally funny and like to lighten up the mood.
 
 </div>
  <!-- LeetCode Stats -->
-    <a href="https://leetcode.com/cheehwatang#gh-dark-mode-only">
-        <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
+   <a href="https://leetcode.com/shubhamsharma_7#gh-dark-mode-only">
+        <img src="https://leetcard.jacoblin.cool/shubhamsharma_7?border=1&radius=20&theme=dark#gh-dark-mode-only" alt="Leetcode Stats">
     </a>
-    <a href="https://leetcode.com/cheehwatang#gh-light-mode-only">
-        <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=light#gh-light-mode-only" alt="Leetcode Stats">
+    <a href="https://leetcode.com/shubhamsharma_7#gh-light-mode-only">
+        <img src="https://leetcard.jacoblin.cool/shubhamsharma_7?border=1&radius=20&theme=light#gh-light-mode-only" alt="Leetcode Stats">
     </a>
 
 <div align="center">
