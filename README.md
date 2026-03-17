@@ -178,11 +178,12 @@ Overall, this internship strengthened my technical skills, understanding of back
 
 </div>
  <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=cheehwatang&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackrexdl&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
     </a>
     <a href="#gh-light-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=cheehwatang&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackrexdl&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
     </a>
+
 ## ⚡ Fun Fact
 
 <div align="center">
