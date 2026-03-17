@@ -545,60 +545,17 @@ _• I’m naturally funny and like to lighten up the mood.
 
 ## 📊 Developer Dashboard
 
-<table>
-<tr>
-<td width="50%" align="center">
+<div align="center">
 
-### 👀 Profile Activity
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=blackrexdl&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=blackrexdl&theme=tokyonight&hide_border=true" />
 
-![Visitor Count](https://komarev.com/ghpvc/?username=blackrexdl&label=Profile%20Visitors&color=blueviolet&style=flat-square)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrexdl&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blackrexdl&theme=tokyonight" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blackrexdl&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackrexdl&theme=tokyonight" />
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/caption_driller?style=social)](https://twitter.com/caption_driller)
-
-</td>
-
-<td width="50%" align="center">
-
-## 🔥 My Top Repositories
-<!--START_SECTION:top_repos-->
-<!--END_SECTION:top_repos-->
-
-### 📈 GitHub Advanced Stats
-
-![GitHub User](https://stats.pphat.top/stats?username=blackrexdl&avatar_mode=radar)
-
-![GitHub Techstacks](https://stats.pphat.top/languages?username=blackrexdl)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### 📊 Contribution Graph
-
-![GitHub Stats](http://stats.pphat.top/graph?username=blackrexdl&theme=aurora&size=default&show_title=true&show_total_contribution=true&show_background=true&animate=glow)
-
-</td>
-
-<td width="50%" align="center">
-
-### 🧑‍💻 Developer Metrics
-
-![GitHub visitor](https://stats.pphat.top/badge/visitors?username=blackrexdl)
-![GitHub starts](https://stats.pphat.top/badge/total-stars?username=blackrexdl&theme=ocean)
-![GitHub foloowers](https://stats.pphat.top/badge/followers?username=blackrexdl&hideIcon=true&theme=neon)
-![GitHub repos](https://stats.pphat.top/badge/repositories?username=blackrexdl&hideFrame=true)
-![GitHub commints](https://stats.pphat.top/badge/total-commits?username=blackrexdl&hideFrame=true&hideIcon=true)
-![GitHub Joined](http://stats.pphat.top/badge/total-joined-years?username=blackrexdl&theme=default)
-
-</td>
-</tr>
-</table>
-
----
+</div>
 
 <div align="center">
 
