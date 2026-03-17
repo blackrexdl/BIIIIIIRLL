@@ -270,6 +270,7 @@ _• I’m naturally funny and like to lighten up the mood.
 </div>
 
 
+
 <p align="center">
 Popular open‑source repositories often appearing on GitHub Trending.
 </p>
@@ -293,10 +294,11 @@ Popular open‑source repositories often appearing on GitHub Trending.
 </td>
 
 <td width="50%" align="center">
+
 ## 🔥 My Top Repositories
 <!--START_SECTION:top_repos-->
-(table content here)
 <!--END_SECTION:top_repos-->
+
 ### 📈 GitHub Advanced Stats
 
 ![GitHub User](https://stats.pphat.top/stats?username=blackrexdl&avatar_mode=radar)
