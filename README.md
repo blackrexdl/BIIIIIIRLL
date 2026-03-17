@@ -475,12 +475,32 @@ _• I’m naturally funny and like to lighten up the mood.
       </a>
     </td>
     <td align="center" width="360" style="border:1px solid #ccc; padding:10px; border-radius:12px;">
-      <!-- Empty / placeholder -->
+      <!-- Placeholder for future repo -->
       <strong>Add Repo</strong>
     </td>
   </tr>
-</table>
 
+  <!-- Row 5 (future expansion) -->
+  <tr>
+    <td align="center" width="360" style="border:1px solid #ccc; padding:10px; border-radius:12px;">
+      <strong>Add Repo</strong>
+    </td>
+    <td align="center" width="360" style="border:1px solid #ccc; padding:10px; border-radius:12px;">
+      <strong>Add Repo</strong>
+    </td>
+  </tr>
+
+  <!-- Row 6 (future expansion) -->
+  <tr>
+    <td align="center" width="360" style="border:1px solid #ccc; padding:10px; border-radius:12px;">
+      <strong>Add Repo</strong>
+    </td>
+    <td align="center" width="360" style="border:1px solid #ccc; padding:10px; border-radius:12px;">
+      <strong>Add Repo</strong>
+    </td>
+  </tr>
+
+</table>
 </div>
 
 ## 🌐 Connect with Me
