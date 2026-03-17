@@ -29,6 +29,13 @@
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/blackrexdl/blackrexdl/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
 
 </div>
 
@@ -556,6 +563,7 @@ _• I’m naturally funny and like to lighten up the mood.
 <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackrexdl&theme=tokyonight" />
 
 </div>
+
 
 <div align="center">
 
