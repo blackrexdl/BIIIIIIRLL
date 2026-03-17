@@ -177,7 +177,12 @@ Overall, this internship strengthened my technical skills, understanding of back
 - 📄 Know about my experiences [https://github.com/blackrexdl/SHUBU-DOCS/blob/main/Cer%5Ctificate/ATS.pdf](https://github.com/blackrexdl/SHUBU-DOCS/blob/main/Cer%5Ctificate/ATS.pdf)
 
 </div>
-
+ <a href="#gh-dark-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=cheehwatang&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=cheehwatang&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
+    </a>
 ## ⚡ Fun Fact
 
 <div align="center">
