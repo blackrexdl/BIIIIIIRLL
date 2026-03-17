@@ -192,6 +192,7 @@ Overall, this internship strengthened my technical skills, understanding of back
         <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=light#gh-light-mode-only" alt="Leetcode Stats">
     </a>
 </div>
+<br>
 
 ## ⚡ Fun Fact
 
