@@ -430,7 +430,6 @@ _• I’m naturally funny and like to lighten up the mood.
     <a href="https://github.com/blackrexdl/next-restaurant#gh-light-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=next-restaurant&theme=vue#gh-light-mode-only" alt="Next Restaurant Repo">
     </a>
-
     <!-- Personal Portfolio Repo -->
     <a href="https://github.com/blackrexdl/Personal-Portfolio#gh-dark-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=github_dark#gh-dark-mode-only" alt="Personal Portfolio Repo">
@@ -438,7 +437,6 @@ _• I’m naturally funny and like to lighten up the mood.
     <a href="https://github.com/blackrexdl/Personal-Portfolio#gh-light-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=vue#gh-light-mode-only" alt="Personal Portfolio Repo">
     </a>
-
     <!-- BlackRexDL Repo -->
     <a href="https://github.com/blackrexdl/blackrexdl#gh-dark-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=blackrexdl&theme=github_dark#gh-dark-mode-only" alt="BlackRexDL Repo">
