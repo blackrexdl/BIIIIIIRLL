@@ -427,14 +427,14 @@ _• I’m naturally funny and like to lighten up the mood.
 <table>
   <tr>
     <!-- Next Restaurant Repo -->
-    <td align="center" width="220">
+    <td align="center" width="420">
       <a href="https://github.com/blackrexdl/next-restaurant">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=next-restaurant&theme=github_dark" width="200" alt="Next Restaurant Repo">
       </a>
       <br>Next Restaurant
     </td>
     <!-- Personal Portfolio Repo -->
-    <td align="center" width="220">
+    <td align="center" width="420">
       <a href="https://github.com/blackrexdl/Personal-Portfolio">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=github_dark" width="200" alt="Personal Portfolio Repo">
       </a>
@@ -443,14 +443,14 @@ _• I’m naturally funny and like to lighten up the mood.
   </tr>
   <tr>
     <!-- BlackRexDL Repo -->
-    <td align="center" width="220">
+    <td align="center" width="420">
       <a href="https://github.com/blackrexdl/blackrexdl">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=blackrexdl&theme=github_dark" width="200" alt="BlackRexDL Repo">
       </a>
       <br>BlackRexDL
     </td>
     <!-- BIIIIIIRLL Repo -->
-    <td align="center" width="220">
+    <td align="center" width="420">
       <a href="https://github.com/blackrexdl/BIIIIIIRLL">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=BIIIIIIRLL&theme=github_dark" width="200" alt="BIIIIIIRLL Repo">
       </a>
