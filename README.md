@@ -426,35 +426,34 @@ _• I’m naturally funny and like to lighten up the mood.
 
 <table>
   <tr>
-    <!-- Next Restaurant Repo -->
-    <td align="center" width="420">
+    <!-- Next Restaurant -->
+    <td align="center" width="250" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
       <a href="https://github.com/blackrexdl/next-restaurant">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=next-restaurant&theme=github_dark" width="200" alt="Next Restaurant Repo">
+        <strong>Next Restaurant</strong>
       </a>
-      <br>Next Restaurant
     </td>
-    <!-- Personal Portfolio Repo -->
-    <td align="center" width="420">
+
+    <!-- Personal Portfolio -->
+    <td align="center" width="250" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
       <a href="https://github.com/blackrexdl/Personal-Portfolio">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=github_dark" width="200" alt="Personal Portfolio Repo">
+        <strong>Personal Portfolio</strong>
       </a>
-      <br>Personal Portfolio
     </td>
   </tr>
+
   <tr>
-    <!-- BlackRexDL Repo -->
-    <td align="center" width="420">
+    <!-- BlackRexDL -->
+    <td align="center" width="250" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
       <a href="https://github.com/blackrexdl/blackrexdl">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=blackrexdl&theme=github_dark" width="200" alt="BlackRexDL Repo">
+        <strong>BlackRexDL</strong>
       </a>
-      <br>BlackRexDL
     </td>
-    <!-- BIIIIIIRLL Repo -->
-    <td align="center" width="420">
+
+    <!-- BIIIIIIRLL -->
+    <td align="center" width="250" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
       <a href="https://github.com/blackrexdl/BIIIIIIRLL">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=BIIIIIIRLL&theme=github_dark" width="200" alt="BIIIIIIRLL Repo">
+        <strong>BIIIIIIRLL</strong>
       </a>
-      <br>BIIIIIIRLL
     </td>
   </tr>
 </table>
