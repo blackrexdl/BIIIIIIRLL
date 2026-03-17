@@ -269,12 +269,12 @@ _• I’m naturally funny and like to lighten up the mood.
 
 </div>
 
-## 🔥 Trending Showcase
+## 🔥 My Popular Repositories
 
 <div align="center">
 
-<a href="https://github.com/trending">
-<img src="https://img.shields.io/badge/GitHub%20Trending-Explore%20Popular%20Repositories-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/blackrexdl?tab=repositories">
+<img src="https://img.shields.io/badge/My%20Repositories-Explore%20My%20Work-black?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -284,16 +284,16 @@ _• I’m naturally funny and like to lighten up the mood.
 
 <td align="center">
 
-<a href="https://github.com/vercel/next.js">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vercel&repo=next.js&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/blackrexdl/repo-1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=repo-1&theme=tokyonight&hide_border=true"/>
 </a>
 
 </td>
 
 <td align="center">
 
-<a href="https://github.com/microsoft/vscode">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=vscode&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/blackrexdl/repo-2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=repo-2&theme=tokyonight&hide_border=true"/>
 </a>
 
 </td>
@@ -304,16 +304,16 @@ _• I’m naturally funny and like to lighten up the mood.
 
 <td align="center">
 
-<a href="https://github.com/facebook/react">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/blackrexdl/repo-3">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=repo-3&theme=tokyonight&hide_border=true"/>
 </a>
 
 </td>
 
 <td align="center">
 
-<a href="https://github.com/torvalds/linux">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linux&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/blackrexdl/repo-4">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=repo-4&theme=tokyonight&hide_border=true"/>
 </a>
 
 </td>
