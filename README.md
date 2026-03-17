@@ -420,6 +420,34 @@ _• I’m naturally funny and like to lighten up the mood.
 
 </br>
 
+## 🔖 Featured Repositories
+
+<div align="center">
+    <!-- Next Restaurant Repo -->
+    <a href="https://github.com/blackrexdl/next-restaurant#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=next-restaurant&theme=github_dark#gh-dark-mode-only" alt="Next Restaurant Repo">
+    </a>
+    <a href="https://github.com/blackrexdl/next-restaurant#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=next-restaurant&theme=vue#gh-light-mode-only" alt="Next Restaurant Repo">
+    </a>
+
+    <!-- Personal Portfolio Repo -->
+    <a href="https://github.com/blackrexdl/Personal-Portfolio#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=github_dark#gh-dark-mode-only" alt="Personal Portfolio Repo">
+    </a>
+    <a href="https://github.com/blackrexdl/Personal-Portfolio#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=vue#gh-light-mode-only" alt="Personal Portfolio Repo">
+    </a>
+
+    <!-- BlackRexDL Repo -->
+    <a href="https://github.com/blackrexdl/blackrexdl#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=blackrexdl&theme=github_dark#gh-dark-mode-only" alt="BlackRexDL Repo">
+    </a>
+    <a href="https://github.com/blackrexdl/blackrexdl#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=blackrexdl&theme=vue#gh-light-mode-only" alt="BlackRexDL Repo">
+    </a>
+</div>
+
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -494,9 +522,6 @@ _• I’m naturally funny and like to lighten up the mood.
 
 
 
-<p align="center">
-Popular open‑source repositories often appearing on GitHub Trending.
-</p>
 
 ---
 
